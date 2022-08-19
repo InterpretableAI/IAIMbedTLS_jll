@@ -1,0 +1,143 @@
+[[IAIMbedTLS]]
+arch = "aarch64"
+git-tree-sha1 = "6bc0b014852b07b3640e2f04b6f481f8d5967e63"
+os = "macos"
+
+    [[IAIMbedTLS.download]]
+    sha256 = "1cb4e5c4a61635adf00271f85060c2aff30e0268c2a00cd593c2f75c420f5104"
+    url = "https://github.com/InterpretableAI/IAIMbedTLS_jll.jl/releases/download/IAIMbedTLS-v2.24.0+0/IAIMbedTLS.v2.24.0.aarch64-apple-darwin.tar.gz"
+[[IAIMbedTLS]]
+arch = "aarch64"
+git-tree-sha1 = "1682ba254d664a143578bc781354be04ad56f8cf"
+libc = "glibc"
+os = "linux"
+
+    [[IAIMbedTLS.download]]
+    sha256 = "97d2ee84bb6c1a4a9350af3507f9a5024194c3ecb83c76bce644ceac5177c44c"
+    url = "https://github.com/InterpretableAI/IAIMbedTLS_jll.jl/releases/download/IAIMbedTLS-v2.24.0+0/IAIMbedTLS.v2.24.0.aarch64-linux-gnu.tar.gz"
+[[IAIMbedTLS]]
+arch = "aarch64"
+git-tree-sha1 = "700de43d446c345eafda1195a626b9bf267cb0ec"
+libc = "musl"
+os = "linux"
+
+    [[IAIMbedTLS.download]]
+    sha256 = "83eb5b00de7cecadfd586dddb723cf10b5087a31f3f7f090e868cc6fb4b1f2ff"
+    url = "https://github.com/InterpretableAI/IAIMbedTLS_jll.jl/releases/download/IAIMbedTLS-v2.24.0+0/IAIMbedTLS.v2.24.0.aarch64-linux-musl.tar.gz"
+[[IAIMbedTLS]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6baf4364be8df4ecce7856038b36bb52fa1bc30d"
+libc = "glibc"
+os = "linux"
+
+    [[IAIMbedTLS.download]]
+    sha256 = "0a2a594bc76025d9750c58e566337960b4d2f746e7662d98d74b2c045f3317f2"
+    url = "https://github.com/InterpretableAI/IAIMbedTLS_jll.jl/releases/download/IAIMbedTLS-v2.24.0+0/IAIMbedTLS.v2.24.0.armv6l-linux-gnueabihf.tar.gz"
+[[IAIMbedTLS]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "83c9b0b9ec6ad9a43470c1472ccffa62c228f2d2"
+libc = "musl"
+os = "linux"
+
+    [[IAIMbedTLS.download]]
+    sha256 = "457f92bccf018e8a2d6d94c60dab7183d6e477ddc794055596fcfc059dc0a9eb"
+    url = "https://github.com/InterpretableAI/IAIMbedTLS_jll.jl/releases/download/IAIMbedTLS-v2.24.0+0/IAIMbedTLS.v2.24.0.armv6l-linux-musleabihf.tar.gz"
+[[IAIMbedTLS]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2b9eb7aaa7f9d0c07150af3edddc86d391782665"
+libc = "glibc"
+os = "linux"
+
+    [[IAIMbedTLS.download]]
+    sha256 = "71fe26f0799ab0cb5c8871fe8beb9faa476231a925b331e5a18193caa13703da"
+    url = "https://github.com/InterpretableAI/IAIMbedTLS_jll.jl/releases/download/IAIMbedTLS-v2.24.0+0/IAIMbedTLS.v2.24.0.armv7l-linux-gnueabihf.tar.gz"
+[[IAIMbedTLS]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4e8bddedc7e913d174aa8c2a94513433e3afdfab"
+libc = "musl"
+os = "linux"
+
+    [[IAIMbedTLS.download]]
+    sha256 = "e8639818741a2fe5ab1da392f7a78e35c4aa8ecf6c25d7b5e09ee209999e3fe4"
+    url = "https://github.com/InterpretableAI/IAIMbedTLS_jll.jl/releases/download/IAIMbedTLS-v2.24.0+0/IAIMbedTLS.v2.24.0.armv7l-linux-musleabihf.tar.gz"
+[[IAIMbedTLS]]
+arch = "i686"
+git-tree-sha1 = "90fb8ade8c32b3101e53ed807444354f392dd339"
+libc = "glibc"
+os = "linux"
+
+    [[IAIMbedTLS.download]]
+    sha256 = "c7a3f010e5b1baaf2a727de826935cf37abaa74b6501cae4b5d5416d26e39e58"
+    url = "https://github.com/InterpretableAI/IAIMbedTLS_jll.jl/releases/download/IAIMbedTLS-v2.24.0+0/IAIMbedTLS.v2.24.0.i686-linux-gnu.tar.gz"
+[[IAIMbedTLS]]
+arch = "i686"
+git-tree-sha1 = "a1daa7108631c3037d539314c6ff770e0d3453a6"
+libc = "musl"
+os = "linux"
+
+    [[IAIMbedTLS.download]]
+    sha256 = "49bd1338dba370d51d7bdc6d3f8df8000d75c54efeb42065eda86cace3162087"
+    url = "https://github.com/InterpretableAI/IAIMbedTLS_jll.jl/releases/download/IAIMbedTLS-v2.24.0+0/IAIMbedTLS.v2.24.0.i686-linux-musl.tar.gz"
+[[IAIMbedTLS]]
+arch = "i686"
+git-tree-sha1 = "ce5f48dbf1164b4eea824f58d431663e164364f6"
+os = "windows"
+
+    [[IAIMbedTLS.download]]
+    sha256 = "8e129dbf7cc27042561bed6e17acd652eff72fe0ecf075d365fde81ce01fdc4c"
+    url = "https://github.com/InterpretableAI/IAIMbedTLS_jll.jl/releases/download/IAIMbedTLS-v2.24.0+0/IAIMbedTLS.v2.24.0.i686-w64-mingw32.tar.gz"
+[[IAIMbedTLS]]
+arch = "powerpc64le"
+git-tree-sha1 = "08412a976d4f292195b8e2aa5f7fbb5c42588ec6"
+libc = "glibc"
+os = "linux"
+
+    [[IAIMbedTLS.download]]
+    sha256 = "52985cfdcb6891fba428306d25647f23e4258a391b36d5fcfff4b38b77081362"
+    url = "https://github.com/InterpretableAI/IAIMbedTLS_jll.jl/releases/download/IAIMbedTLS-v2.24.0+0/IAIMbedTLS.v2.24.0.powerpc64le-linux-gnu.tar.gz"
+[[IAIMbedTLS]]
+arch = "x86_64"
+git-tree-sha1 = "d1c16435d16faca693de7901cca78c59f652fcc9"
+os = "macos"
+
+    [[IAIMbedTLS.download]]
+    sha256 = "2a2b65b1191d1dc4f0436df40f52ebbc08d19e0f511ad6ba9967df3d5717765c"
+    url = "https://github.com/InterpretableAI/IAIMbedTLS_jll.jl/releases/download/IAIMbedTLS-v2.24.0+0/IAIMbedTLS.v2.24.0.x86_64-apple-darwin.tar.gz"
+[[IAIMbedTLS]]
+arch = "x86_64"
+git-tree-sha1 = "cb5fd471491bdc1d53a3973eb276b50f93c074e2"
+libc = "glibc"
+os = "linux"
+
+    [[IAIMbedTLS.download]]
+    sha256 = "855fd20f7f02e064975c5a54bd2ebfd4b3af2240deb67e954505699a7b483576"
+    url = "https://github.com/InterpretableAI/IAIMbedTLS_jll.jl/releases/download/IAIMbedTLS-v2.24.0+0/IAIMbedTLS.v2.24.0.x86_64-linux-gnu.tar.gz"
+[[IAIMbedTLS]]
+arch = "x86_64"
+git-tree-sha1 = "e4d70c844cec9bf8389e0a1ce050cbf7defeee1a"
+libc = "musl"
+os = "linux"
+
+    [[IAIMbedTLS.download]]
+    sha256 = "505f97decde369e6005ac414ac42efeb86531a21d08d8b29faf98594245fedc3"
+    url = "https://github.com/InterpretableAI/IAIMbedTLS_jll.jl/releases/download/IAIMbedTLS-v2.24.0+0/IAIMbedTLS.v2.24.0.x86_64-linux-musl.tar.gz"
+[[IAIMbedTLS]]
+arch = "x86_64"
+git-tree-sha1 = "766c0167c610d8bdd0220cd5ffa074d52f032c05"
+os = "freebsd"
+
+    [[IAIMbedTLS.download]]
+    sha256 = "d66f979cacf352b4fb3617ae935e728dce44943b2a6b95d72585e122c6621f8b"
+    url = "https://github.com/InterpretableAI/IAIMbedTLS_jll.jl/releases/download/IAIMbedTLS-v2.24.0+0/IAIMbedTLS.v2.24.0.x86_64-unknown-freebsd.tar.gz"
+[[IAIMbedTLS]]
+arch = "x86_64"
+git-tree-sha1 = "644fa7fe949e733c517dc25e286485e27ac8bdf9"
+os = "windows"
+
+    [[IAIMbedTLS.download]]
+    sha256 = "fc39afcc86eaeb1bf72d4ac6c3eef5ccb765e3dd20c88cb4cad39eaa2f475272"
+    url = "https://github.com/InterpretableAI/IAIMbedTLS_jll.jl/releases/download/IAIMbedTLS-v2.24.0+0/IAIMbedTLS.v2.24.0.x86_64-w64-mingw32.tar.gz"
